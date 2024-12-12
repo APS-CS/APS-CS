@@ -1,7 +1,3 @@
-<img align="left" src="https://via.placeholder.com/150" width="20%" style="display:inline;">
-<img align="right" src="https://via.placeholder.com/150" width="20%" style="display:inline;">
-<br>
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Explore+my+projects.;Let's+secure+the+digital+world!&font=Fira%20Code&color=%2300C09A&center=true&width=440&height=45">
 </p>
@@ -17,8 +13,8 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 
 ### 🔧 Skills in progress
 - **Languages:** Python, JavaScript
-- **Focus Areas:** Network Security, Ethical Hacking, Incident Handling, Cloud Security
-- **Tools:** Wireshark, Metasploit, Kali Linux, Docker
+- **Focus Areas:** Ethical Hacking, Network Security, Incident Handling, Cloud Security
+- **Tools:** Burpsuite, Kali Linux, Docker
 
 ---
 
