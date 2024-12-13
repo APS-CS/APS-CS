@@ -22,4 +22,9 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 - **GitHub:** [APS-CS](https://github.com/APS-CS)
 - **Email:** [amosps@proton.me](mailto:amosps@proton.me)
 
+### 🔧 Projects
 ---
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/aps) - Conduct a security audit | `INFOSEC`, `ISO Risk Management Framework`, `Security Audits`, `ISO Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad` |
+| [2](https://github.com/APS-CS/symcryptool) - Code a symmetric encryption tool | `Python`, `Security Hardening`, | 
