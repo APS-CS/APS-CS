@@ -26,4 +26,4 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 | :--- |:---:|
 | [1](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) - Conduct a Info-Sec Management Review | `InfoSec`, `ISO Cybersecurity Framework`, `CIA triad` |
 | [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Script a symmetric encryption tool | `Python`,  `Scripting`, `Security Hardening` | 
-| [2](https://github.com/APS-CS/portfolio/tree/main/pentest-report) - Web Application Pen-test Report | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
+| [3](https://github.com/APS-CS/portfolio/tree/main/pentest-report) - Web Application Pen-test Report | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
