@@ -3,8 +3,6 @@
 </p>
 
 ---
-
-###  Welcome to my GitHub page!
 Here, you'll find my projects, showcasing my skills in IT security areas.
 
 I am studying IT and cybersecurity at Frans Schartaus Handelsinstitut, and my goal is to work on all kinds of security-related questions. Whether it’s building secure systems or tackling new threats, I’m all about making the digital world a safer place!
@@ -26,5 +24,6 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ---
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) - Conduct a Info-Sec Management Review | `INFOSEC`, `ISO Risk Management Framework`, `Security Audits`, `ISO Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad` |
-| [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Script a symmetric encryption tool | `Python`, `Security Hardening`, | 
+| [1](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) - Conduct a Info-Sec Management Review | `InfoSec`, `ISO Cybersecurity Framework`, `CIA triad` |
+| [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Script a symmetric encryption tool | `Python`,  `Scripting`, `Security Hardening` | 
+| [2](https://github.com/APS-CS/portfolio/tree/main/pentest-report) - Web Application Pen-test Report | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
