@@ -26,5 +26,5 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ---
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/aps) - Conduct a security audit | `INFOSEC`, `ISO Risk Management Framework`, `Security Audits`, `ISO Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad` |
-| [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Code a symmetric encryption tool | `Python`, `Security Hardening`, | 
+| [1](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) - Conduct a Info-Sec Management Review | `INFOSEC`, `ISO Risk Management Framework`, `Security Audits`, `ISO Cybersecurity Framework`, `Incident Response Playbooks`, `CIA triad` |
+| [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Script a symmetric encryption tool | `Python`, `Security Hardening`, | 
