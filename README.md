@@ -12,7 +12,7 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ---
 
 ### 📫 Get in Touch
-- **GitHub:** [APS-CS](https://github.com/APS-CS)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amos%20Portal%20Skog-blue?style=flat&logo=linkedin)](https://se.linkedin.com/in/amosps?trk=profile-badge)
 - **Email:** [amosps@proton.me](mailto:amosps@proton.me)
 
 ---
@@ -27,6 +27,6 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ### 🔧 Projects
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) - Conduct a Info-Sec Management Review | `InfoSec`, `ISO Cybersecurity Framework`, `CIA triad` |
-| [2](https://github.com/APS-CS/portfolio/tree/main/symcryptool) - Script a symmetric encryption tool | `Python`,  `Scripting`, `Security Hardening` | 
-| [3](https://github.com/APS-CS/portfolio/tree/main/pentest-report) - Web Application Pen-test Report | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
+| [Conduct a Info-Sec Management Review](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) | `InfoSec`, `ISO Cybersecurity Framework`, `CIA triad` |
+| [Script a symmetric encryption tool](https://github.com/APS-CS/portfolio/tree/main/symcryptool) | `Python`,  `Scripting`, `Security Hardening` | 
+| [Web Application Pen-test Report](https://github.com/APS-CS/portfolio/tree/main/pentest-report)  | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
