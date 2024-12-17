@@ -24,7 +24,7 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 
 ---
 
-### 🔧 Projects
+### 🚀 Projects
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [Conduct a Info-Sec Management Review](https://github.com/APS-CS/portfolio/tree/main/insec-evaluation) | `InfoSec`, `ISO Cybersecurity Framework`, `CIA triad` |
