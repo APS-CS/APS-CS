@@ -12,7 +12,7 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ---
 
 ### 📫 Get in Touch
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amos%20Portal%20Skog-blue?style=flat&logo=linkedin)](https://se.linkedin.com/in/amosps?trk=profile-badge)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amos%20Portal%20Skog-blue?style=flat&logo=linkedin)](https://se.linkedin.com/in/amosps)
 - **Email:** [amosps@proton.me](mailto:amosps@proton.me)
 
 ---
