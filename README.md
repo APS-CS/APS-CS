@@ -19,8 +19,8 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 
 ### 🔧 Skills in progress
 - **Languages:** Python, JavaScript
-- **Focus Areas:** Ethical Hacking, Network Security, Incident Handling, Cloud Security
-- **Tools:** Burpsuite, Kali Linux
+- **Focus Areas:** Ethical Hacking, Network Security, Incident Handling, Information security
+- **Tools:** Burpsuite, Wireshark, Kali Linux
 
 ---
 
