@@ -18,8 +18,8 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 ---
 
 ### 🔧 Skills in progress
-- **Languages:** Python, JavaScript
-- **Focus Areas:** Information securityEthical Hacking, Incident Handling, 
+- **Languages:** Basic Python
+- **Focus Areas:** Information security, Ethical Hacking, Incident Handling
 - **Tools:** Burpsuite, Wireshark, Kali Linux
 
 ---
