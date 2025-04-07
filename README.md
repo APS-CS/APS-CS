@@ -19,7 +19,7 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 
 ### 🔧 Skills in progress
 - **Languages:** Basic Python
-- **Focus Areas:** Information security, Ethical Hacking, Incident Handling
+- **Focus Areas:** Information security (GRC), Ethical Hacking, Incident Handling
 - **Tools:** Burpsuite, Wireshark, Kali Linux
 
 ---
