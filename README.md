@@ -31,3 +31,4 @@ Feel free to check out my work, and don’t hesitate to reach out if you’d lik
 | [Script a symmetric encryption tool](https://github.com/APS-CS/portfolio/tree/main/symcryptool) | `Python`,  `Scripting`, `Security Hardening` | 
 | [Web Application Pen-test Report](https://github.com/APS-CS/portfolio/tree/main/pentest-report)  | `Burpsuite`, `Ethical Hacking`, `Pentesting` | 
 | [Windows 11 System Hardening Guide - IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/hardeningguide)  | `Security Hardening`, `Windows11`, `Pro` | 
+| [Home SOC - IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/home_soc)  | `Security Operations Center`, `Linux`, `Windows`, `Threat detection`,  | 
