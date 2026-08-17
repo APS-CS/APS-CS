@@ -21,10 +21,11 @@ Whether you are hiring, evaluating a supplier, or simply curious about a design 
 
 ### 🔧 What I work with
 
-- **Governance & compliance:** Information security management, ISO/IEC 27001, NIS2, GDPR, security policy, risk and third-party assessment
+- **Governance & compliance:** Information security management, ISO/IEC 27001, NIS2, GDPR, security policy and documentation, risk assessment, supplier and third-party assessment
+- **AI governance:** EU AI Act transparency obligations, data classification for AI tooling, vendor assessment under GDPR and CLOUD Act exposure
 - **Defensive & infrastructure:** OPNsense, Suricata IDS/IPS
-- **Offensive security:** Primarily Web application testing with tools in Kali Linux.
-- **Analysis & scripting:** Wireshark, Python
+- **Offensive security:** Primarily Web application testing with tools in Kali Linux, findings reporting and remediation advice
+- **Analysis & scripting:** Wireshark, Python, PowerShell, Bash
 
 ---
 
