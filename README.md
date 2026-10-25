@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Information+Security+and+Offensive+Security;GRC%2C+pentesting+and+network+defence;Documented%2C+not+just+built&font=Fira%20Code&color=%2300C09A&center=true&width=560&height=45">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Information+Security+and+IT+Security;GRC%2C+pentesting+and+network+defence;Documented%2C+not+just+built&font=Fira%20Code&color=%2300C09A&center=true&width=560&height=45">
 </p>
 
 <p align="center">
