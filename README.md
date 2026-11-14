@@ -29,7 +29,6 @@ Whether you are hiring, evaluating a supplier, or simply curious about a design 
 
 ---
 
-
 ### 🚀 Projects
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
@@ -37,6 +36,7 @@ Whether you are hiring, evaluating a supplier, or simply curious about a design 
 | [Script a symmetric encryption tool](https://github.com/APS-CS/portfolio/tree/main/symcryptool) | `Python`,  `Scripting`, `Security Hardening` | 
 | [Web Application Pen-test Report](https://github.com/APS-CS/portfolio/tree/main/pentest-report)  | `Burpsuite`, `Ethical Hacking`, `Pentesting` |
 | [Hardened Media Server](https://github.com/APS-CS/portfolio/tree/main/mediaserver) | `Docker`, `Linux Hardening`, `Least Privilege`, `Threat Modeling` |
+| [Security Assessment of a Production Website](https://github.com/APS-CS/portfolio/tree/main/website-security-assessment) | `OWASP WSTG`, `Web Security Testing`, `CSP & Trusted Types`, `Proof of Concept`, `Security Reporting` |
 | [AI CXO Agents OpenClaw- IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/ai-cxo-agents)  | `Security Hardening`, `Linux`, `Docker`, `AI Agents` |
 | [Segmented Home Network with OPNsense - IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/network-segmentation) | `OPNsense`, `VLAN Segmentation`, `Firewall Rules`, `IDS/IPS`, `Suricata`, `WireGuard` |
-| [Home SOC - IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/home_soc)  | `Security Operations Center`, `Linux`, `Windows`, `Threat detection`,  | 
+| [Home SOC - IN PROGRESS](https://github.com/APS-CS/portfolio/tree/main/home_soc)  | `Security Operations Center`, `Linux`, `Windows`, `Threat detection`,  |
